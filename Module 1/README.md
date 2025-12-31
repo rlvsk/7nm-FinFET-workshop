@@ -58,7 +58,7 @@ BEOL innovations are critical for zetta-scale goals since most delay and power l
 
 ---
 
-## 5. Workshop Learnings Covered in this Module
+## 5. Learnings Covered in this Module
 - Understanding why 7nm moved from planar to Fin-based transistors  
 - Exploring the scaling challenges for ultra-high compute systems  
 - Learning how transistor and interconnect improvements differ in purpose  
