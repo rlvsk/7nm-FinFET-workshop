@@ -1,5 +1,5 @@
 # Module 1  
-**Zetta to Zetta: A journey into 7nm FinFET technology and VLSI backend innovations**
+**Scaling Beyond CMOS: FinFET Devices and Innovatons**
 
 ---
 
