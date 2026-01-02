@@ -11,7 +11,7 @@
 - FEOL (Transistor-level innovations)
 - BEOL (Interconnect and routing evolution)
 
-📁 **Explore:** [`Module 1`](./Module-1)
+📁 **Explore:** [`Module 1`](./https://github.com/rlvsk/7nm-FinFET-workshop/tree/main/Module%201)
 
 ---
 
