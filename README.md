@@ -11,7 +11,7 @@
 - FEOL (Transistor-level innovations)
 - BEOL (Interconnect and routing evolution)
 
-📁 **Explore:** [`Module 1`](./https://github.com/rlvsk/7nm-FinFET-workshop/tree/main/Module%201)
+
 
 ---
 
@@ -28,9 +28,7 @@
   - Transconductance (gm)
   - Frequency limits
 - Characterization table generation
-- Lab measurement tips
-
-📁 **Explore:** [`module-2/`](./module-2)
+- Assignment
 
 ---
 
@@ -42,12 +40,7 @@
   - DC bias stability
   - Startup and settling behavior
   - Temperature sweep for Vref flatness
-- Assignment submission files:
-  - Schematic
-  - SPICE deck
-  - Plots
-  - Voltage reference table
-  - Observations report
+- Assignment 
 
-📁 **Explore:** [`module-3/`](./module-3)
+
 
