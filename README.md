@@ -11,7 +11,7 @@
 - FEOL (Transistor-level innovations)
 - BEOL (Interconnect and routing evolution)
 
-📁 **Explore:** [`Module 1/`](./module-1)
+📁 **Explore:** [`Module 1`](./Module-1)
 
 ---
 
